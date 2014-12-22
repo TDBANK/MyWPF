@@ -1,0 +1,13 @@
+C:\D-Drive\DotNet\MyWPF\bin\Debug\MyWPF.exe.config
+C:\D-Drive\DotNet\MyWPF\bin\Debug\MyWPF.exe
+C:\D-Drive\DotNet\MyWPF\bin\Debug\MyWPF.pdb
+C:\D-Drive\DotNet\MyWPF\obj\Debug\MyWPF.csprojResolveAssemblyReference.cache
+C:\D-Drive\DotNet\MyWPF\obj\Debug\MainWindow.baml
+C:\D-Drive\DotNet\MyWPF\obj\Debug\MainWindow.g.cs
+C:\D-Drive\DotNet\MyWPF\obj\Debug\App.g.cs
+C:\D-Drive\DotNet\MyWPF\obj\Debug\MyWPF_MarkupCompile.cache
+C:\D-Drive\DotNet\MyWPF\obj\Debug\MyWPF.g.resources
+C:\D-Drive\DotNet\MyWPF\obj\Debug\MyWPF.Properties.Resources.resources
+C:\D-Drive\DotNet\MyWPF\obj\Debug\MyWPF.csproj.GenerateResource.Cache
+C:\D-Drive\DotNet\MyWPF\obj\Debug\MyWPF.exe
+C:\D-Drive\DotNet\MyWPF\obj\Debug\MyWPF.pdb
